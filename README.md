@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**YasminDeodato/YasminDeodato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:books: Sou Técnica em informática (IFSP) e curso o 5º período de Ciência e Tecnologia, com ênfase em Ciência da Computação, na Unifesp.;
 
-Here are some ideas to get you started:
+🚀 **Objetivo:** tornar-me desenvolvedora Java Full-stack;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Habilidades:** em Java, Python, SQL, HTML/CSS;
+
+🧐 **Estudos atuais:** ecossistema Spring;
+
+💬 **Hobbies**: amo livros e garimpos em brechós <3 
+
+💌 **Entre em contato:**
+
+<div>
+  <a href = "mailto:zamindb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&color=red&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/yasmindeodato/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
