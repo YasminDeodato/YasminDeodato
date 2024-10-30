@@ -1,11 +1,7 @@
 
-:books: Sou Técnica em informática (IFSP) e curso o 5º período de Ciência e Tecnologia, com ênfase em Ciência da Computação, na Unifesp.;
+:books: Atualmente curso o 8º período de Ciência da Computação, na Unifesp.;
 
-🚀 **Objetivo:** tornar-me desenvolvedora Java Full-stack;
-
-💻 **Habilidades:** em Java, Python, SQL, HTML/CSS;
-
-🧐 **Estudos atuais:** ecossistema Spring;
+🚀 Atuo com desenvolvimento de microsserviços em Java, com uso do framework Quarkus.
 
 💬 **Hobbies**: amo livros e garimpos em brechós <3 
 
