@@ -3,7 +3,7 @@
 
 🚀 Atuo com desenvolvimento de microsserviços em Java, com uso do framework Quarkus.
 
-💬 **Hobbies**: amo livros e garimpos em brechós <3 
+💬 amo livros e garimpos em brechós
 
 💌 **Entre em contato:**
 
