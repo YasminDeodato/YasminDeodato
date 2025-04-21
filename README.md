@@ -1,9 +1,10 @@
 
-:books: Atualmente curso o 8º período de Ciência da Computação, na Unifesp.;
+🚀 atuo com desenvolvimento de microsserviços em Java, com uso do framework Quarkus;
 
-🚀 Atuo com desenvolvimento de microsserviços em Java, com uso do framework Quarkus.
+💬 amo livros e garimpos em brechós;
 
-💬 amo livros e garimpos em brechós
+:books: curso Ciência da Computação, na Unifesp;
+
 
 💌 **Entre em contato:**
 
